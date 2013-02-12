@@ -1,0 +1,28 @@
+{
+  "name": "node-gday",
+  "version": "0.0.0",
+  "description": "avahi/dns-sd wrapper",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sidorares/node-gday.git"
+  },
+  "keywords": [
+    "avahi",
+    "mdns",
+    "dns-cd",
+    "bonjour",
+    "rendezvous",
+    "zeroconf",
+    "service",
+    "discovery"
+  ],
+  "author": "Andrey Sidorov <sidorares@yandex.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "dbus-native": "0.0.8"
+  }
+}
