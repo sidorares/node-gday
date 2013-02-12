@@ -1,6 +1,6 @@
 {
-  "name": "node-gday",
-  "version": "0.0.0",
+  "name": "gday",
+  "version": "0.0.1",
   "description": "avahi/dns-sd wrapper",
   "main": "lib/index.js",
   "scripts": {
