@@ -1,6 +1,8 @@
 node-gday
 =========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sidorares/node-gday.svg)](https://greenkeeper.io/)
+
 dns-sd client (Avahi/dbus wrapper)
 
 # install
